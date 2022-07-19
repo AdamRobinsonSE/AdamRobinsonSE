@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Robinson</h1>
-<h3 align="center">I've been running a personal training business for over six years, and when COVID hit, my business took a hit as well. I relied on my engineering skillset to freelance while I worked on getting my business back on its feet. Once I was operational again, I didn't want to stop coding and learning. I decided to make my own application for clients where they can record their workouts and see the customized workouts that I created for them based on their goals and needs. This helped my clients stay on track when they could not see me in person. Once I saw and experienced the ability to imagine, create, and solve real problems with code, I went all-in on software development.</h3>
+<h3 align="center"> I've been running a personal training business for over six years, and when COVID hit, my business took a hit as well. While being shut down for COVID, I explored coding and software engineering through freeCodeCamp. Once I was operational again, I didn't want to stop coding and learning. I decided to enroll in 100Devs to further my learning. Once I saw and experienced the ability to imagine, create, and solve real problems with code, I went all-in on software development.
+.</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://www.adamrobinsonse.com/](https://www.adamrobinsonse.com/)
 
