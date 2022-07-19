@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Robinson</h1>
-<h3 align="center"> I've been running a personal training business for over six years, and when COVID hit, my business took a hit as well. While being shut down for COVID, I explored coding and software engineering through freeCodeCamp. Once I was operational again, I didn't want to stop coding and learning. I decided to enroll in 100Devs to further my learning. Once I saw and experienced the ability to imagine, create, and solve real problems with code, I went all-in on software development.
+<h3 align="center"> I've been running a personal training business for over six years, and when COVID hit, my business took a hit as well. While being shut down for COVID, I explored coding and software engineering through freeCodeCamp. Once I was operational again, I didn't want to stop coding and learning. I decided to enroll in 100Devs to further my education. Once I saw and experienced the ability to imagine, create, and solve real problems with code, I went all-in on software development.
 .</h3>
 
 
